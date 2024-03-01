@@ -1,0 +1,7 @@
+setup.py
+CTDProcessingPackage.egg-info/PKG-INFO
+CTDProcessingPackage.egg-info/SOURCES.txt
+CTDProcessingPackage.egg-info/dependency_links.txt
+CTDProcessingPackage.egg-info/top_level.txt
+ctdmodule/__init__.py
+ctdmodule/utilities.py
