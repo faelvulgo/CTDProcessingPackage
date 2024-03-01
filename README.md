@@ -17,7 +17,6 @@ import ctdmodule
 - remove_outliers: remove the data outliers using the 3-sigma method
 - above_sea_level: remove the data collected above the sea level
 - pressure_loops: remove the pressure loops from the data
-- lp_filter: low-pass filter
 - bin_average: bin averaging 
 
 # Quick Start
