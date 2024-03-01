@@ -6,7 +6,7 @@ Python package for pre-processing CTD data
 
 # How to use it
 ```Python
-import ctdmodule
+import ctdmodule as ctd
 ```
 # Package functions
 - plot: plot a simple temperature profile
