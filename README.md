@@ -2,12 +2,20 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Versão&message=V.1.7.10&color=GREEN&style=for-the-badge)
 
-# Descrição
+# Descrption
 This is a project developed by Rafael S. Bittencourt, oceanography student working at the Ocean Dynamics Laboratory at UFSC.
 The objective is to develop a python program for pre-processing CTD data.
 
 # How to install it
 ```pip install CTDProcessingPackage```
+
+# Requirements
+To be able to use all the CTDProcessingPackage functions, the CTD data file must be a Pandas dataframe, so don't forget to: 
+```Python
+import pandas as pd
+
+data = pd.read_csv('PATH')
+```
 
 # How to use it
 ```Python
