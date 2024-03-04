@@ -1,6 +1,6 @@
 <h1 align="center"> CTD Processing Package</h1>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Versão&message=V.1.7.10&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Versão&message=V.1.7.11&color=GREEN&style=for-the-badge)
 
 # Descrption
 This is a project developed by Rafael S. Bittencourt, oceanography student working at the Ocean Dynamics Laboratory at UFSC.
