@@ -8,6 +8,8 @@ The objective is to develop a python program for pre-processing CTD data.
 
 # How to install it
 ```pip install CTDProcessingPackage```
+Install the requirements too:
+```pip install -r requirements.txt```
 
 # Requirements
 To be able to use all the CTDProcessingPackage functions, the CTD data file must be a Pandas dataframe, so don't forget to: 
