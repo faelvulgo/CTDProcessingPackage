@@ -2,7 +2,7 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Versão&message=V.1.7.11&color=GREEN&style=for-the-badge)
 
-# Descrption
+# Description
 This is a project developed by Rafael S. Bittencourt, oceanography student working at the Ocean Dynamics Laboratory at UFSC.
 The objective is to develop a python program for pre-processing CTD data.
 
