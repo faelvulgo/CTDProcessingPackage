@@ -50,3 +50,11 @@ We can see noises and loops in this data, so after using some functions of the p
 ![Perfil depois de todas as etapas de processamento](https://github.com/faelvulgo/CTDprocessing/blob/master/perfis/Perfil_binado.png)
 
 Rafael S. Bittencourt
+
+## License
+
+This project is proprietary software. You are welcome to download and use the code strictly for **personal and private purposes**. 
+
+However, commercial use, modification for public distribution, and direct redistribution of the source code are **strictly prohibited**. Any sharing must be done by linking directly to this original repository.
+
+For full legal terms, please refer to the [LICENSE](https://github.com/faelvulgo/CTDProcessingPackage/blob/main/LICENSE.txt). file.
